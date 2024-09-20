@@ -4,7 +4,7 @@ This repository contains code that adapts Meta AI's Segment Anything Model (SAM)
 
 ## Project overview
 
-Water resource monitoring is crucial for understanding environmental changes and managing water supply. This project uses the SAM model, designed for segmentation tasks, and applies it to Sentinel satellite images. The images were first pre-processed and download on Google Earth Engine. The input is composed of a collection of four 3-bands images, each one representing the median of each season. A further processing is include in the provided code. 
+Water resource monitoring is crucial for understanding environmental changes and managing water supply. This project uses the SAM model, designed for segmentation tasks, and applies it to Sentinel satellite images. The images were first pre-processed and download on Google Earth Engine. The input is composed of a collection of four 3-bands images, each one representing the median of a season (e.g. JJA). A further processing is include in the provided code. 
 ### Features:
 - Adapts SAM for segmentation of water bodies in Sentinel images
 - Utilizes satellite imagery to monitor water levels in reservoirs
