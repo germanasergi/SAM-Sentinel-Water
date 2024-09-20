@@ -1,4 +1,4 @@
-# SAM_Sentinel_Water
+# SAM-Sentinel-Water
 
 This repository contains code that adapts Meta AI's Segment Anything Model (SAM) to work with satellite images for monitoring water reservoirs. The model is fine-tuned to predict water areas, helping to track changes in water levels over time using satellite imagery.
 
